@@ -36,7 +36,7 @@ abstraction it provides over the native Kafka Java client APIs.
     -Running Zookeper and Kafka.
 ![Code Demonstration](/assets/DownloadKafka.png)
     -Testing with Kafka-console-producer and kafka-console-consumer.
-![Code Demonstration](/assets/BothDocker.png)
+
 
 
 2. Setting up the environment (Docker):
@@ -44,7 +44,7 @@ abstraction it provides over the native Kafka Java client APIs.
     -Running Zookeper and Kafka.
 ![Code Demonstration](/assets/dockerDowload.png)
     -Testing with Kafka-console-producer and kafka-console-consumer.
-![Code Demonstration](/assets/ConsumerProducer.png)
+
 
 
 3. Creation of a KAFKA Service Producer via a Rest Controller.
